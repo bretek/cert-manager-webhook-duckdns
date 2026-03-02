@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  cert-manager-webhook-duckdns:
+  - apiVersion: v1
+    appVersion: v1.2.3
+    created: "2026-03-02T23:16:10.670914578Z"
+    description: A Helm chart for cert manager webhook solver for ACME DNS01 challenge
+      via DuckDNS
+    digest: 01ddf85cd4195f7d3851d02d76aa07750381303ea14dfd0c48e3730bcfcba4f1
+    home: https://github.com/ebrianne/cert-manager-webhook-duckdns
+    icon: https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png
+    keywords:
+    - cert-manager
+    - webhook
+    - letsencrypt
+    - tls
+    maintainers:
+    - email: eldwan35@gmail.com
+      name: Eldwan Brianne
+      url: https://ebrianne.technolab.duckdns.org
+    name: cert-manager-webhook-duckdns
+    sources:
+    - https://github.com/ebrianne/cert-manager-webhook-duckdns
+    urls:
+    - https://github.com/bretek/cert-manager-webhook-duckdns/releases/download/cert-manager-webhook-duckdns-v1.2.3/cert-manager-webhook-duckdns-v1.2.3.tgz
+    version: v1.2.3
+generated: "2026-03-02T23:16:10.670921208Z"
